@@ -1,2 +1,2 @@
 language: java
-script: javac Algorithms/strings/SuperCompressString.java
+script: javac Algorithms/strings/*.java
